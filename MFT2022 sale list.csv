@@ -1,0 +1,21 @@
+カテゴリ,SKU,Code,商品名,通常販売価格（税込）,MFT販売価格（税込）,割引率,備考
+Arduino,7999,ARDUINO-ABX00062,Arduino Uno Mini Limited Edition,7260,6000,17.3553,
+Raspberry Pi,8100,SSCI-081009,Raspberry Pi Pico入門キット,4290,4000,6.7599,
+LABOKIDS,,,micro:bit（マイクロビット）をはじめようキット,3520,3000,14.7727,会場のみ、かつお子様がいるご家庭限定。スイッチサイエンスウェブショップは対象外。
+SEDU,5482,SEDU-054829,プログラミング・フォロ for micro:bit,7700,7000,9.0909,
+SEDU,6977,SEDU-069779,bitPak:しゃくとり虫,4477,4000,10.6544,
+D+IO,8251,SSCI-082518,【D+IOキット】 CO2換気アラートデバイス,4180,3500,16.2679,ワークショップは会場のみ
+D+IO,8252,SSCI-082525,【D+IOキット】 スマートオーナメント,5170,4500,12.9593,ワークショップは会場のみ
+D+IO,8253,SSCI-082532,【D+IOキット】 ウォータリングユニット,4565,4000,12.3767,ワークショップは会場のみ
+Apparel,7177,RPI-SC0634,Raspberry Pi Colour Code T Shirt - Medium,1991,1500,24.6609,
+Apparel,7178,RPI-SC0635,Raspberry Pi Colour Code T Shirt - Large,1991,1500,24.6609,会場のみ
+Apparel,7179,RPI-SC0636,Raspberry Pi Colour Code T Shirt - XL,1991,1500,24.6609,会場のみ
+Apparel,8382,M5STACK-F059-MFT2022,【期間限定】MFT2022Tシャツ+トート付き M5Stack フーディー（黒）,-,3000,-,フーディー単体価格（参考）：3300円税込
+Apparel,8383,M5STACK-A101-MFT2022,【期間限定】MFT2022Tシャツ+トート付き M5Stackクッション（CORE2デザイン）,-,3500,-,クッション単体価格（参考）：3850円税込
+Apparel,8384,M5STACK-A102-MFT2022,【期間限定】MFT2022Tシャツ+トート付き M5Stackクッション（M5StickCデザイン）,-,3500,-,クッション単体価格（参考）：3850円税込
+myCobot,7141,MYCOBOT-280-M5-PSE,myCobot 280 M5 - ロボットアーム,100639,90000,10.5714,ウェブショップのみ
+myCobot,7200,MYCOBOT-280-PI-PSE,myCobot 280 Pi - ロボットアーム,115654,105000,9.2119,ウェブショップのみ
+myCobot,7910,MYCOBOT-MYPALLETIZER-PSE,myPalletizer - ロボットアーム,82434,75000,9.0181,ウェブショップのみ
+DDT,7646,DDT-M0601C-111,DDT M0601C_111 ダイレクトドライブモーター 18V/0.96Nm/115rpm,7315,6600,9.7744,ウェブショップのみ
+DDT,7647,DDT-M0602C-112,DDT M0602C_112 ダイレクトドライブモーター 18V/0.55Nm/200rpm,5852,5300,9.4326,ウェブショップのみ
+DDT,8248,DDT-M1502D-211,DDT M1502D_211 タイヤ付きダイレクトドライブモーター,41536,37000,10.9206,ウェブショップのみ
